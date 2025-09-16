@@ -38,4 +38,3 @@ I am passionate about **finance, data science, and risk management**, combining 
 
 ## 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/manuel-randazzo-b23188242/)  
-- [GitHub](https://github.com/Rendi28)  
