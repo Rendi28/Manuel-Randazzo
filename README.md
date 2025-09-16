@@ -1,4 +1,3 @@
-# Manuel-Randazzo
 # Hi there 👋
 
 I’m **Manuel Randazzo**, a Master’s student in *Applied Data Science for Banking and Finance* at Università Cattolica del Sacro Cuore.  
